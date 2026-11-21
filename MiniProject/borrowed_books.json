@@ -1,0 +1,122 @@
+[
+    {
+        "Borrow_ID": 1001,
+        "Book_ID": 1,
+        "Borrower_Name": "Ali Ahmadi",
+        "Borrow_Date": "2026-11-18",
+        "Returned_Date": "2026-11-21",
+        "Status": "Returned"
+    },
+    {
+        "Borrow_ID": 1002,
+        "Book_ID": 2,
+        "Borrower_Name": "Sara Mohammadi",
+        "Borrow_Date": "2026-11-17",
+        "Returned_Date": "2026-11-21",
+        "Status": "Returned"
+    },
+    {
+        "Borrow_ID": 1003,
+        "Book_ID": 3,
+        "Borrower_Name": "Reza Karimi",
+        "Borrow_Date": "2026-11-16",
+        "Returned_Date": "2026-11-21",
+        "Status": "Returned"
+    },
+    {
+        "Borrow_ID": 1004,
+        "Book_ID": 4,
+        "Borrower_Name": "Neda Hosseini",
+        "Borrow_Date": "2026-11-15",
+        "Returned_Date": null,
+        "Status": "Borrowed"
+    },
+    {
+        "Borrow_ID": 1005,
+        "Book_ID": 5,
+        "Borrower_Name": "Amir Rahimi",
+        "Borrow_Date": "2026-11-14",
+        "Returned_Date": null,
+        "Status": "Borrowed"
+    },
+    {
+        "Borrow_ID": 1006,
+        "Book_ID": 7,
+        "Borrower_Name": "Mina Jafari",
+        "Borrow_Date": "2026-11-13",
+        "Returned_Date": null,
+        "Status": "Borrowed"
+    },
+    {
+        "Borrow_ID": 1007,
+        "Book_ID": 9,
+        "Borrower_Name": "Arman Moradi",
+        "Borrow_Date": "2026-11-12",
+        "Returned_Date": null,
+        "Status": "Borrowed"
+    },
+    {
+        "Borrow_ID": 1008,
+        "Book_ID": 10,
+        "Borrower_Name": "Zahra Ebrahimi",
+        "Borrow_Date": "2026-11-11",
+        "Returned_Date": null,
+        "Status": "Borrowed"
+    },
+    {
+        "Borrow_ID": 1009,
+        "Book_ID": 6,
+        "Borrower_Name": "Kian Rezaei",
+        "Borrow_Date": "2026-11-05",
+        "Returned_Date": "2026-11-12",
+        "Status": "Returned"
+    },
+    {
+        "Borrow_ID": 1010,
+        "Book_ID": 8,
+        "Borrower_Name": "Parisa Karimi",
+        "Borrow_Date": "2026-11-04",
+        "Returned_Date": "2026-11-10",
+        "Status": "Returned"
+    },
+    {
+        "Borrow_ID": 1011,
+        "Book_ID": 11,
+        "Borrower_Name": "Pouya Ahmadi",
+        "Borrow_Date": "2026-11-03",
+        "Returned_Date": "2026-11-09",
+        "Status": "Returned"
+    },
+    {
+        "Borrow_ID": 1012,
+        "Book_ID": 12,
+        "Borrower_Name": "Tara Mohammadi",
+        "Borrow_Date": "2026-11-02",
+        "Returned_Date": "2026-11-08",
+        "Status": "Returned"
+    },
+    {
+        "Borrow_ID": 1013,
+        "Book_ID": 13,
+        "Borrower_Name": "Sina Hosseini",
+        "Borrow_Date": "2026-11-01",
+        "Returned_Date": "2026-11-07",
+        "Status": "Returned"
+    },
+    {
+        "Borrow_ID": 1014,
+        "Book_ID": 14,
+        "Borrower_Name": "Yasmin Rahimi",
+        "Borrow_Date": "2026-10-29",
+        "Returned_Date": "2026-11-05",
+        "Status": "Returned"
+    },
+    {
+        "Borrow_ID": 1015,
+        "Book_ID": 15,
+        "Borrower_Name": "Mehrdad Jafari",
+        "Borrow_Date": "2026-10-28",
+        "Returned_Date": "2026-11-04",
+        "Status": "Returned"
+    }
+]
